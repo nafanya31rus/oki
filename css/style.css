@@ -152,9 +152,7 @@ body{
 .subtitle__change {
     display: flex;
     justify-content: center;
-    padding-left: 40px;
-    padding-right: 40px;
-    padding-top: 40px;
+    padding: 40px;
     
 }
 
@@ -164,11 +162,11 @@ body{
     border-radius: 16px;
     
 }
-
+/* 
 .plain {
     width: 160px;
     height: 160px;
-}
+} */
 .always__images {
     width: 560px;
     height: 160px;
